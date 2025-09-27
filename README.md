@@ -79,15 +79,6 @@ A comprehensive, consolidated collection of payloads, tools, methodologies, and 
 - [Practice Labs](./Resources/Communities/) - Hands-on environments
 - [Certification Guides](./Resources/Communities/) - Professional development
 
-## 📊 Repository Statistics
-
-- **Total Files**: 2,800+
-- **Payload Categories**: 25+
-- **Tool Collections**: 15+
-- **Methodology Guides**: 30+
-- **Regular Updates**: Weekly
-- **Community Contributors**: 50+
-
 ## 🤝 Contributing
 
 This arsenal grows stronger with community contributions! We welcome:
@@ -115,21 +106,6 @@ This repository is intended for:
 - ✅ **Security research**
 
 **Always ensure you have explicit permission before testing any systems.**
-
-## 🙏 Acknowledgments
-
-### Original Source
-- **Base Repository**: [thevillagehacker/Bug-Hunting-Arsenal](https://github.com/thevillagehacker/Bug-Hunting-Arsenal)
-- **Community Contributors**: Security researchers worldwide
-- **Bug Bounty Platforms**: HackerOne, Bugcrowd, Synack, and others
-
-### Personal Journey
-This consolidation represents years of bug hunting experience, combining:
-- Personal research and discoveries
-- Community knowledge sharing
-- Industry best practices
-- Real-world testing scenarios
-
 ---
 
 <div align="center">
