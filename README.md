@@ -55,26 +55,6 @@ A comprehensive, consolidated collection of payloads, tools, methodologies, and 
 | [Platform-Specific](./Methodologies/Platform-Specific/) | Target-specific approaches |
 | [Advanced Techniques](./Methodologies/Advanced-Techniques/) | Expert-level strategies |
 
-## 🏆 What Makes This Arsenal Special
-
-### Personal Contributions
-- **Custom Automation Scripts**: Personal tools developed through years of hunting
-- **Proven Methodologies**: Battle-tested approaches with real-world success
-- **Curated Payload Collections**: Hand-picked, verified attack vectors
-- **Real Case Studies**: Documented findings and learning experiences
-
-### Community Powered
-- **Global Researcher Input**: Contributions from top security researchers
-- **Latest Vulnerability Research**: Up-to-date with current threats
-- **Industry Best Practices**: Enterprise-grade security testing approaches
-- **Crowdsourced Intelligence**: Community-verified techniques
-
-### Comprehensive Coverage
-- **200+ Vulnerability Types**: From common to exotic attack vectors
-- **1000+ Payloads**: Ready-to-use exploitation strings
-- **50+ Tools**: Automated and manual testing utilities
-- **100+ Methodologies**: Step-by-step testing procedures
-
 ## 🚀 Quick Start Guide
 
 ### For Beginners
@@ -86,17 +66,6 @@ A comprehensive, consolidated collection of payloads, tools, methodologies, and 
 1. **Advanced Techniques**: [Expert Methodologies](./Methodologies/Advanced-Techniques/)
 2. **Automation Scripts**: [Custom Tool Collection](./Tools/Automation-Scripts/)
 3. **Latest Research**: [Cutting-Edge Payloads](./Write-ups/CVE-Analysis/)
-
-### For Tool Setup
-```bash
-# Clone the arsenal
-git clone https://github.com/kdairatchi/Bug-Hunting-Arsenal.git
-cd Bug-Hunting-Arsenal
-
-# Run setup script
-chmod +x Tools/Setup-Guides/install.sh
-./Tools/Setup-Guides/install.sh
-```
 
 ## 📖 Learning Resources
 
@@ -166,9 +135,3 @@ This consolidation represents years of bug hunting experience, combining:
 <div align="center">
 
 **🎯 Happy Hunting! 🐛**
-
-*"Security is not a product, but a process."* - Bruce Schneier
-
-[⭐ Star this repo](https://github.com/kdairatchi/Bug-Hunting-Arsenal) | [🐛 Report issues](https://github.com/kdairatchi/Bug-Hunting-Arsenal/issues) | [🤝 Contribute](./CONTRIBUTING.md)
-
-</div>
